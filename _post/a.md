@@ -1,3 +1,8 @@
+---
+title: My First Post
+---
+
+
 People deliberately accused me for being isolating, but there are reasons for it.
 
 [[Depression come from lacking of framework]]
