@@ -1,6 +1,6 @@
 ---
-title: a
-date: 2026-01-15
+layout: post
+title:  "a"
 ---
 
 People deliberately accused me for being isolating, but there are reasons for it.
