@@ -8,6 +8,6 @@
   flex: 2;             /* main block takes 2 parts */
 }
 
-.sidebar {
+.sider {
   flex: 1;             /* sidebar takes 1 part */
 }
