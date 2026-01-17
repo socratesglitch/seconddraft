@@ -5,9 +5,9 @@
 }
 
 .main {
-  flex: 3;             /* main block takes 2 parts */
+  flex: 80%;             /* main block takes 2 parts */
 }
 
 .sider {
-  flex: 1;             /* sidebar takes 1 part */
+  flex: 20%;             /* sidebar takes 1 part */
 }
