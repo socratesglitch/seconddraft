@@ -1,7 +1,7 @@
 ---
 title: My First Post
+date: 2026-01-15
 ---
-
 
 People deliberately accused me for being isolating, but there are reasons for it.
 
