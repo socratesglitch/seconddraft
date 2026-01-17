@@ -20,8 +20,11 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-       
-        <h1>{{ site.text4 }}</h1>
+
+        <p>{{ site.text1 }}</p>
+        <p>{{ site.text2 }}</p>
+        <p>{{ site.text3 }}</p> 
+        <big>{{ site.text4 }}</big>
         
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -39,10 +42,6 @@
       </section>
       
       <footer>
-        <p>{{ site.text1 }}</p>
-        <p>{{ site.text2 }}</p>
-        <p>{{ site.text3 }}</p>
-        
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
