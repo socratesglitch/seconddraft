@@ -1,3 +1,13 @@
-header {
-  max-width: 20%;
+.wrapper {
+  display: flex;
+  flex-direction: row; /* main + sidebar horizontally */
+  gap: 2rem;           /* optional space between main and sidebar */
+}
+
+.main {
+  flex: 2;             /* main block takes 2 parts */
+}
+
+.sidebar {
+  flex: 1;             /* sidebar takes 1 part */
 }
