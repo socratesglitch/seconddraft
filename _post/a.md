@@ -1,5 +1,5 @@
 ---
-title: My First Post
+title: a
 date: 2026-01-15
 ---
 
