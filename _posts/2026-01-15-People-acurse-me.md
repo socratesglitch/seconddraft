@@ -2,7 +2,6 @@
 layout: default
 title:  "People acurse me" 
 ---
-<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 
 People deliberately accused me for being isolating, but there are reasons for it.
 [[Depression come from lacking of framework]]
