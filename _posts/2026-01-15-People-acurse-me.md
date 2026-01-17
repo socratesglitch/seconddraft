@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "a" 
+title:  "People acurse me" 
 ---
 
 People deliberately accused me for being isolating, but there are reasons for it.
