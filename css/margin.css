@@ -1,13 +1,7 @@
-.wrapper {
-  display: flex;
-  flex-direction: row; /* main + sidebar horizontally */
-  gap: 2rem;           /* optional space between main and sidebar */
-}
-
 .main {
-  flex: 2;             /* main block takes 2 parts */
+  width: 70%;             /* main block takes 2 parts */
 }
 
 .sider {
-  flex: 1;             /* sidebar takes 1 part */
+  width: 30%;             /* sidebar takes 1 part */
 }
